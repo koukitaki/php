@@ -3,3 +3,4 @@ COACHTECH教材「PHP基礎講座」のセットアップ
 $item = "JavaScript";
 $item = "PHP";
 echo $item;# php
+# php
